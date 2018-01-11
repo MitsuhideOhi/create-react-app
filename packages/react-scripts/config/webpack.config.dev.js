@@ -233,7 +233,7 @@ module.exports = {
                     'iOS >= 8',
                     'android >= 4.0',
                   ],
-                  flexbox: 'no-2009',
+                  flexbox: true,
                 }),
               ],
             },
